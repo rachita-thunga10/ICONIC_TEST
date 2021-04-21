@@ -1,0 +1,3 @@
+export const CATALOGUE = "CATALOGUE";
+export const CATALOGUE_INFO = "CATALOGUE_INFO";
+
